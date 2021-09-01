@@ -16,13 +16,13 @@ body {
     display: flex;
     justify-content: center;
 }
-
+body{background-image:url(./img/jardim_flores.jpg);}
 .instagram-wrapper {
     display: flex;
     align-items: center;
     justify-content: start;
     width: 60%;
-    height: 100vh;
+    height: 120vh;
 }
 
 .instagram-phone {
@@ -33,7 +33,7 @@ body {
 }
 
 .instagram-phone img {
-    height: 50rem;
+    height:40rem;
 }
 
 .instagram-continue {
